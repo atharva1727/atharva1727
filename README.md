@@ -16,7 +16,7 @@ Cloud & DevOps : AWS, Docker, Git/GitHub, Linux (Ubuntu)
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://instagram.com/your_username" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
+<a href="https://www.instagram.com/atharva.shevate" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
 <a href="https://linkedin.com/in/atharva-shevate-082b602a7" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 <a href="https://github.com/atharva1727" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 <a href="mailto:atharvshevate3@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
