@@ -1,4 +1,4 @@
-![logo](https://github.com/atharva1727/atharva1727/blob/main/Gemini_Generated_Image_ul5hplul5hplul5h.png)
+
 
 # 💫 About Me:
 
