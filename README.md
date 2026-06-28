@@ -2,13 +2,11 @@
 
 # 💫 About Me:
 
-I am Atharva Shevate, a Computer Engineering student specializing in building scalable AI automation pipelines, intelligent LLM workflows, and modern full-stack architectures. I focus on turning complex, data-driven problems into highly efficient, automated codebases.
-
-* **Backend & Core Languages:** Python, C++, C, JavaScript
-* **Frameworks:** React.js, Next.js, React Native, Flask
-* **Databases & Analytics:** MongoDB, MySQL, Power BI
-* **Cloud & DevOps:** AWS (EC2), Docker, Git/GitHub, Linux (Ubuntu)
-
+I am Atharva Shevate Computer Engineer specializing in building scalable AI automation pipelines, intelligent LLMs/RAG workflows, and advanced full-stack architectures. Proven expertise in Python, C++, and Node.js development, alongside strong capabilities in browser automation and robust MongoDB/MySQL database solutions. Dedicated to optimizing system performance and delivering high-priority, end-to-end features
+Backend & Core Languages : Python, C/C++, JavaScript, Node.js, Java
+Frameworks : React.js, Next.js, React Native, Flask
+Databases : MongoDB, MySQL
+Cloud & DevOps : AWS, Docker, Git/GitHub, Linux (Ubuntu)
 ---
 
 
