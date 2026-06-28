@@ -1,3 +1,5 @@
+![logo](https://github.com/atharva1727/atharva1727/blob/main/Gemini_Generated_Image_ul5hplul5hplul5h.png)
+
 # 💫 About Me:
 
 I am Atharva Shevate, a Computer Engineering student specializing in building scalable AI automation pipelines, intelligent LLM workflows, and modern full-stack architectures. I focus on turning complex, data-driven problems into highly efficient, automated codebases.
