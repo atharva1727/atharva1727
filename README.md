@@ -1,428 +1,431 @@
-<!-- ========================== HEADER BANNER ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1e3799,100:6c5ce7&height=200&section=header&text=Atharva%20Shevate&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🤖%20AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Computer%20Engineer&descAlignY=58&descAlign=50&descSize=18&descColor=a29bfe"/>
-
-</div>
-
-<!-- ========================== TYPING ANIMATION ========================== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C5CE7&background=0D111700&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=🚀+AI+Engineer+Intern+%40+IOTIOT.IN;🧠+Building+Intelligent+LLM+Pipelines;⚡+GenAI+%7C+RAG+%7C+Multi-Agent+Systems;🌐+Full+Stack+%2B+Cloud+Developer;🔮+Turning+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ========================== BADGES ROW ========================== -->
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Atharva%20Shevate&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Developer%20%E2%80%A2%20Computer%20Engineer&descSize=17&descAlignY=63&descColor=a78bfa"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=atharva1727&label=👁️%20Profile%20Views&color=6c5ce7&style=for-the-badge)](https://github.com/atharva1727)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)
-[![GitHub followers](https://img.shields.io/github/followers/atharva1727?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/atharva1727)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=680&lines=🤖+Building+Intelligent+LLM+Pipelines;🧠+Multi-Agent+AI+%7C+RAG+%7C+LangGraph;☁️+Cloud+Automation+on+AWS+%26+Docker;🚀+Turning+Ideas+into+AI-Powered+Solutions;⚡+AI+Engineer+Intern+%40+IOTIOT.IN%2C+Pune)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=atharva1727&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/atharva1727)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Shevate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-atharva1727-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva1727)&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h202201727)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-atharvshevate3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atharvshevate3@gmail.com)
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ========================== ABOUT ME ========================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## &nbsp;🧑‍💻 &nbsp;About Me
 
-<img align="right" alt="coding gif" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<br/>
 
-```yaml
-Name        : Atharva Shevate
-Role        : AI Engineer Intern @ IOTIOT.IN
-Education   : B.Tech Computer Engineering
-              Vishwakarma University, Pune (2026)
-              CGPA: 7.62 / 10
-Location    : Pune, Maharashtra, India 🇮🇳
-Email       : atharvshevate3@gmail.com
-Pronouns    : He / Him
-```
+<img align="right" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding"/>
 
-```python
-currently_building = [
-  "LLM-powered automation pipelines",
-  "Multi-Agent AI systems (LangGraph)",
-  "RAG frameworks for business automation",
-  "Scalable AI integrations & data pipelines"
-]
+I'm **Atharva Shevate**, a final-year **Computer Engineering student** at Vishwakarma University, Pune, and currently working as an **AI Engineer Intern at IOTIOT.IN**. My work sits at the intersection of **Generative AI, intelligent automation, and full-stack development** — I build things that are not just functional but genuinely smart.
 
-currently_learning = [
-  "Advanced RAG Architectures",
-  "Multi-Agent Systems & LangGraph",
-  "Cloud AI Architecture (AWS)",
-  "Agentic AI Workflows"
-]
+My primary focus is developing production-ready **LLM-powered pipelines, RAG frameworks, and Multi-Agent Systems** using LangChain and LangGraph. I believe the next wave of software is AI-native, and I'm actively building in that space every day — from designing agentic workflows to deploying cloud-native infrastructure on AWS with Docker.
 
-ask_me_about = [
-  "Python", "GenAI", "LLMs", "RAG",
-  "LangChain", "React", "AWS", "Automation"
-]
+Beyond AI, I bring strong **full-stack skills** across React, Next.js, and Flask, giving me the ability to take an idea from an LLM API call all the way to a deployed web product. I've shipped projects spanning computer vision, voice recognition, business intelligence, and cloud monitoring — each solving a real problem with clean, scalable architecture.
 
-fun_fact = "I turn complex problems into intelligent solutions ⚡"
-```
+I'm currently deepening my expertise in **Advanced RAG architectures, Agentic AI, and Cloud AI on AWS**, and I'm actively looking to collaborate on ambitious AI and full-stack projects where I can contribute meaningfully.
 
 <br clear="right"/>
 
----
+<br/>
 
-<!-- ========================== CONNECT ========================== -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva1727)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h202201727)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvshevate3@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
-
-</div>
-
----
-
-<!-- ========================== EXPERIENCE ========================== -->
-
-## 💼 Work Experience
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    WHAT I'M UP TO                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
-|:---:|:---:|:---:|:---:|
-| **IOTIOT.IN** | AI Engineer Intern | Jan 2026 – Present | Pune, India |
+|  |  |  |
+|:---:|:---:|:---:|
+| 🔭 &nbsp;**Building** | LLM workflows, RAG systems, Multi-Agent pipelines | at IOTIOT.IN |
+| 🌱 &nbsp;**Learning** | Advanced RAG, LangGraph, Cloud AI Architecture | AWS + Agentic AI |
+| 💬 &nbsp;**Ask me** | Python, GenAI, LLMs, RAG, LangChain, React, AWS | Happy to help! |
+| 📬 &nbsp;**Reach me** | [atharvshevate3@gmail.com](mailto:atharvshevate3@gmail.com) | Always open |
+| ⚡ &nbsp;**Fun fact** | I turn complex problems into intelligent automated solutions | 🚀 |
 
 </div>
 
-> 🔧 Developing AI-driven automation solutions using **LLM-powered workflows** and intelligent pipelines
->
-> 🏗️ Designing scalable **data pipelines**, AI integrations, and end-to-end project modules
->
-> 🤖 Implementing **RAG frameworks** and LLM APIs for real-world business automation solutions
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ========================== TECH STACK ========================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-## 💻 Tech Stack
+## &nbsp;🛠️ &nbsp;Tech Stack
 
-### 🤖 AI · ML · GenAI
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️%20LangGraph-000000?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### &nbsp;Languages
 
-### 🌐 Web · Full Stack · Mobile
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ☁️ Cloud · DevOps · Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases · Analytics
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🧬 Programming Languages
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💡 AI Specializations
+</div>
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF4500?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-228B22?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-008B8B?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2F4F4F?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF8C00?style=for-the-badge&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-DC143C?style=for-the-badge&logoColor=white)
-![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-4B0082?style=for-the-badge&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-0080FF?style=for-the-badge&logoColor=white)
-
----
-
-<!-- ========================== PROJECTS ========================== -->
-
-## 🚀 Featured Projects
+### &nbsp;Frontend & Mobile
 
 <div align="center">
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+### &nbsp;AI · ML · GenAI
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0066CC?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-DC2626?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-059669?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0891B2?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-374151?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D97706?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+### &nbsp;Cloud · Backend · DevOps
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### &nbsp;Databases · Analytics
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## &nbsp;💼 &nbsp;Experience
+
+<br/>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│   🏢  IOTIOT.IN  ·  Pune, Maharashtra                                │
+│   💼  AI Engineer Intern                    Jan 2026 – Present       │
+│                                                                      │
+│   ▸  Building LLM-powered automation workflows & intelligent         │
+│      pipelines for real-world business automation                    │
+│   ▸  Designing scalable data pipelines and end-to-end AI             │
+│      integrations with RAG frameworks & LLM APIs                    │
+│   ▸  Architecting multi-agent systems for production deployments     │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## &nbsp;🚀 &nbsp;Featured Projects
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 🤖 Multi-Agent Swarm System
-> **Python · AI Agents · LangGraph · Kanban**
+**🤖 Multi-Agent Swarm System**
 
-Developed a multi-agent AI system using Kanban-based workflow management for intelligent task orchestration. Automated task assignment, dependency tracking, and execution pipelines.
+A Kanban-based multi-agent AI orchestration platform built with Python and LangGraph. Agents autonomously handle task assignment, dependency tracking, and parallel workflow execution — AI-driven collaboration at scale.
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat)
-![AI Agents](https://img.shields.io/badge/-AI_Agents-8A2BE2?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![GenAI](https://img.shields.io/badge/GenAI-7C3AED?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 👁️ KidSafe Vision (RF+GB+SVM)
-> **EfficientNetB0 · Ensemble ML · Computer Vision**
+**☁️ Cloud Monitoring & Auto-Healing System**
 
-Built a content safety classifier achieving **90% accuracy** using ensemble ML methods (RF, GB, SVM) on top of EfficientNetB0 deep learning backbone.
+Real-time CPU, memory, and disk monitoring deployed on AWS EC2 with Docker. Automated service recovery through self-healing scripts, secure REST APIs built with Flask and MySQL, and a live dashboard.
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### ☁️ Cloud Monitoring & Auto-Healing
-> **Python · Flask · MySQL · Docker · AWS EC2**
+**👁️ KidSafe Vision**
 
-Real-time CPU, memory, and disk monitoring with automated self-healing for service recovery. Deployed on AWS EC2 with Docker and a secure REST API dashboard.
+Content safety image classifier achieving **90% accuracy** using EfficientNetB0 deep learning with an ensemble of Random Forest, Gradient Boosting, and SVM models on top for robust Safe vs Unsafe detection.
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 🔗 LinkedIn Auto Poster
-> **Python · Automation · JavaScript · Sessions**
+**🔗 LinkedIn Automation System**
 
-End-to-end automated LinkedIn posting system with Python-based profile and multi-account session management — reduced manual content effort dramatically.
+End-to-end automated content publishing system for LinkedIn. Python-based multi-account session management, profile handling, and workflow scheduling — reducing manual posting effort dramatically.
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Automation](https://img.shields.io/badge/-Automation-DC143C?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-059669?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top" style="padding:12px">
 
-### 🎙️ Voice Recognition System
-> **Python · Speech Recognition · Deep Learning**
+**📊 E-Commerce Sales Intelligence Dashboard**
 
-Real-time speech-to-text pipeline with audio preprocessing and deep learning for optimized transcription accuracy and low-latency inference performance.
+Full-featured Business Intelligence dashboard built in Power BI with end-to-end ETL pipeline and DAX modeling. Delivers actionable insights on sales trends, customer behavior, profitability, and inventory performance.
 
-**Stack:**
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-008B8B?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF4500?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 E-Commerce Sales Dashboard
-> **Power BI · Excel · ETL · DAX**
-
-Business Intelligence dashboard for sales trend analysis, profitability, and revenue performance. Applied full ETL pipeline and DAX modeling for actionable insights.
-
-**Stack:**
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/-DAX-0078D4?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Application Security Enhancement
-> **Input Validation · Session Management · Web Security**
-
-Strengthened web application security using server-side input validation (whitelist/blacklist), secure session management, and proactive vulnerability mitigation.
-
-**Stack:**
-![Security](https://img.shields.io/badge/-Web_Security-DC143C?style=flat)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚌 Bus Reservation System
-> **C++ · Data Structures · System Design**
-
-Full-featured C++ bus reservation system with optimized data structures for real-time seat booking, allocation, and reservation management with high system reliability.
-
-**Stack:**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/-Data_Structures-4B0082?style=flat)
-![System Design](https://img.shields.io/badge/-System_Design-228B22?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-374151?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
 
 </td>
 </tr>
 </table>
-
 </div>
 
----
+<br/>
 
-<!-- ========================== GITHUB TROPHIES ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## &nbsp;📊 &nbsp;GitHub Stats
+
+<br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharva1727&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva1727&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e2e8f0" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1727&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0&langs_count=8" />
 
 </div>
 
----
-
-<!-- ========================== GITHUB STATS ========================== -->
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atharva1727&show_icons=true&count_private=true&hide_border=true&title_color=6c5ce7&icon_color=6c5ce7&text_color=c9d1d9&bg_color=0d1117" alt="Atharva's GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva1727&layout=compact&hide_border=true&title_color=6c5ce7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=atharva1727&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=F472B6&currStreakLabel=7C3AED&sideLabels=e2e8f0&dates=94a3b8&stroke=7C3AED&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=atharva1727&theme=transparent&hide_border=true&ring=6c5ce7&fire=fd79a8&currStreakLabel=6c5ce7&sideLabels=c9d1d9&dates=c9d1d9&stroke=6c5ce7" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=atharva1727&theme=onestar&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<br/>
 
-<!-- ========================== ACTIVITY GRAPH ========================== -->
-
-## 📈 Contribution Activity
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Atharva's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharva1727&bg_color=0d1117&color=6c5ce7&line=6c5ce7&point=fd79a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharva1727&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f472b6&area_color=7c3aed&area=true&hide_border=true&custom_title=Atharva's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/>
 
-<!-- ========================== SNAKE ANIMATION ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TOP REPOS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 My Contributions
+<div align="center">
+
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=atharva1727&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0)](https://github.com/atharva1727)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## &nbsp;🐍 &nbsp;Contribution Snake
+
+<br/>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva1727/atharva1727/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva1727/atharva1727/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/atharva1727/atharva1727/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/atharva1727/atharva1727/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ========================== EDUCATION ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CERTIFICATIONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
-<div align="center">
+## &nbsp;🏅 &nbsp;Certifications
 
-| 🏛️ Institution | 📚 Degree / Board | 📅 Year | 🏅 Score |
-|:---|:---|:---:|:---:|
-| **Vishwakarma University, Pune** | B.Tech – Computer Engineering | 2022–2026 | CGPA: 7.62/10 |
-| S.S. Jadhavar College, Pune | HSC (12th) | 2022 | 56.83% |
-| Aaryans World School, Pune | CBSE (10th) | 2020 | 74.76% |
-
-</div>
-
----
-
-<!-- ========================== CERTIFICATIONS ========================== -->
-
-## 🏅 Certifications
+<br/>
 
 <div align="center">
 
-| 🎖️ Certification | 🏢 Issuer | 📅 Year |
+| 🎖️ Certification | 🏢 Issuer | 📅 |
 |:---|:---:|:---:|
-| 🏆 15+ Certs in AI, Cloud, Data Analytics & Security | **Google** | 2026 |
-| ☁️ AWS Fundamentals Specialization | Coursera | 2026 |
-| 📊 Google Data Analytics Professional Certificate | Coursera | 2026 |
-| 🔐 IT Fundamentals for Cybersecurity Specialization | IBM / Coursera | 2026 |
-| 🌐 Fundamentals of Computer Network Security | Coursera | 2026 |
-| ☕ Core Java Specialization | Coursera | 2026 |
-| 🤖 AI & Green Skills – Skills4Future | **Edunet & AICTE** | 2026 |
+| 15+ Certifications — AI, Cloud, Data Analytics, Security | **Google** | 2026 |
+| AWS Fundamentals Specialization | Coursera | 2026 |
+| Google Data Analytics Professional Certificate | Coursera | 2026 |
+| IT Fundamentals for Cybersecurity Specialization | IBM / Coursera | 2026 |
+| Fundamentals of Computer Network Security | Coursera | 2026 |
+| Core Java Specialization | Coursera | 2026 |
+| AI & Green Skills — Skills4Future | Edunet & AICTE | 2026 |
 
 </div>
 
----
+<br/>
 
-<!-- ========================== TOP REPOS ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    EDUCATION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔝 Top Contributed Repos
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+
+## &nbsp;🎓 &nbsp;Education
+
+<br/>
 
 <div align="center">
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=atharva1727&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/atharva1727)
+| 🏛️ Institution | 📚 Programme | 📅 Year | 🏅 Result |
+|:---|:---|:---:|:---:|
+| **Vishwakarma University, Pune** | B.Tech — Computer Engineering | 2022 – 2026 | CGPA 7.62 / 10 |
+| S.S. Jadhavar College, Pune | HSC (12th Grade) | 2022 | 56.83% |
+| Aaryans World School, Pune | CBSE (10th Grade) | 2020 | 74.76% |
 
 </div>
 
----
+<br/>
 
-<!-- ========================== DEV QUOTE ========================== -->
-
-## ✍️ Dev Quote
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DEV QUOTE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
----
+<br/>
 
-<!-- ========================== FOOTER ========================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:1e3799,100:0d1117&height=130&section=footer&animation=fadeIn"/>
+<br/>
 
-### 💬 Let's collaborate and build something intelligent together!
+### &nbsp;Let's build something intelligent together 🚀
 
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-atharvshevate3%40gmail.com-D14836?style=for-the-badge)](mailto:atharvshevate3@gmail.com)
+<br/>
 
-*"The best way to predict the future is to build it with AI." 🚀*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shevate-082b602a7)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvshevate3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva1727)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h202201727)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
 
-⭐ **Star my repos if you find them useful!**
+<br/>
+
+*"The best way to predict the future is to build it — with AI."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
 
 </div>
